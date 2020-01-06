@@ -12,3 +12,6 @@ To run production, use `docker-compose -f docker-compose-prod.yml up`
 
 #### Then
 Go to `localhost` or `http://192.168.99.100/` depending on which version of docker you have
+
+#### Video Guide
+https://youtu.be/iVV5aka75Ks
